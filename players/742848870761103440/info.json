@@ -1,0 +1,36 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1614088341.927252,
+    "damage" : 4,
+    "deaths" : 4,
+    "defence" : 0,
+    "enemieskilled" : 100,
+    "enemyhp" : 167,
+    "equip" : "Tough Gloves",
+    "exp" : 449,
+    "gold" : 1136,
+    "health" : 26,
+    "hp_potions" : 15,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick",
+        "Toy Knife"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 5,
+    "max_health" : 116,
+    "max_pot" : 12,
+    "name" : "adrian F",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1614088756.4499197,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

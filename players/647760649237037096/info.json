@@ -1,0 +1,38 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612084119.1082065,
+    "damage" : 6,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 129,
+    "enemyhp" : 50,
+    "equip" : "Tough Gloves",
+    "exp" : 21,
+    "gold" : 594,
+    "health" : 100,
+    "hp_potions" : 12,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon"
+    ],
+    "inventory" : [
+        "Stick",
+        "Toy Knife"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 7,
+    "max_health" : 124,
+    "max_pot" : 12,
+    "name" : "ItzHatsu",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612139278.3424337,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Manly Bandanna"
+}

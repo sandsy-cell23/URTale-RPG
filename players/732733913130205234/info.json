@@ -1,0 +1,31 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 0,
+    "damage" : 0,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 2,
+    "enemyhp" : 132,
+    "equip" : "Stick",
+    "exp" : 16,
+    "gold" : 271,
+    "health" : 23,
+    "hp_potions" : 0,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 1,
+    "max_health" : 100,
+    "max_pot" : 12,
+    "name" : "toby the uhhh toby",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1614087331.999135,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

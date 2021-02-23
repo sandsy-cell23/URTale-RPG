@@ -1,0 +1,35 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1613933986.6394773,
+    "damage" : 2,
+    "deaths" : 2,
+    "defence" : 0,
+    "enemieskilled" : 40,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 60,
+    "gold" : 706,
+    "health" : 100,
+    "hp_potions" : 6,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "bipolarInnit",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613946894.2803493,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

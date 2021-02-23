@@ -1,0 +1,31 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 0,
+    "damage" : 0,
+    "deaths" : 2,
+    "defence" : 0,
+    "enemieskilled" : 8,
+    "enemyhp" : 50,
+    "equip" : "Stick",
+    "exp" : 79,
+    "gold" : 78,
+    "health" : 100,
+    "hp_potions" : 5,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 1,
+    "max_health" : 100,
+    "max_pot" : 12,
+    "name" : "God King Karma",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613353233.9763086,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

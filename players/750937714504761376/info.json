@@ -1,0 +1,31 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612661260.550772,
+    "damage" : 1,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 19,
+    "enemyhp" : 50,
+    "equip" : "Stick",
+    "exp" : 74,
+    "gold" : 1693,
+    "health" : 100,
+    "hp_potions" : 3,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 2,
+    "max_health" : 104,
+    "max_pot" : 12,
+    "name" : "THE EVIL ALIEN",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612716110.097679,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

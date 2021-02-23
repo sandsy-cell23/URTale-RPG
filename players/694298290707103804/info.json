@@ -1,0 +1,35 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612916617.7062557,
+    "damage" : 3,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 47,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 126,
+    "gold" : 388,
+    "health" : 100,
+    "hp_potions" : 23,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Faded Ribbon"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 4,
+    "max_health" : 112,
+    "max_pot" : 12,
+    "name" : "Kauan \u2670",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612985176.7879643,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

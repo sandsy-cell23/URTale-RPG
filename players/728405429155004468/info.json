@@ -1,0 +1,39 @@
+{
+    "bosshp" : 50,
+    "bosskilled" : 0,
+    "class" : "Undertale",
+    "daily_block" : 1611896543.6660526,
+    "damage" : 1,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 16,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 79,
+    "gold" : 1364,
+    "health" : 100,
+    "hp_potions" : 28,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 2,
+    "max_health" : 104,
+    "max_pot" : 12,
+    "name" : "Giorno Giovanni",
+    "pet" : "None",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1611829691.2893367,
+    "roaming" : "False",
+    "selected_boss" : "None",
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

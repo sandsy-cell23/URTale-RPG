@@ -1,0 +1,32 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 0,
+    "damage" : 0,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 7,
+    "enemyhp" : 50,
+    "equip" : "Stick",
+    "exp" : 53,
+    "gold" : 240,
+    "health" : 100,
+    "hp_potions" : 0,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 1,
+    "max_health" : 100,
+    "max_pot" : 12,
+    "name" : "\u266cJACKET\u00b9\u2122\u30c4",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612376945.367854,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

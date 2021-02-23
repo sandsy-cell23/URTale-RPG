@@ -1,0 +1,53 @@
+{
+    "bosshp" : 50,
+    "bosskilled" : 0,
+    "class" : "Undertale",
+    "daily_block" : 1612135159.5447872,
+    "damage" : 55,
+    "deaths" : 6,
+    "defence" : 0,
+    "enemieskilled" : 1118,
+    "enemyhp" : 50,
+    "equip" : "Worn Dagger",
+    "exp" : 0,
+    "gold" : 13344,
+    "health" : 100,
+    "hp_potions" : 63,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon",
+        "Manly Bandanna",
+        "Old Tutu",
+        "Stained Arpon",
+        "Cloudy Glasses",
+        "Cowboy Hat"
+    ],
+    "inventory" : [
+        "Stick",
+        "Toy Knife",
+        "Tough Gloves",
+        "Ballet Shoes",
+        "Burnt Pan",
+        "Torn Notebook",
+        "Empty Gun"
+    ],
+    "location" : "The barrier",
+    "lootbag" : 33,
+    "lvl" : 57,
+    "max_health" : 320,
+    "max_pot" : 12,
+    "name" : "killerso_013",
+    "pet" : "None",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613638410.8418238,
+    "roaming" : "False",
+    "selected_boss" : "None",
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Heart Locket"
+}

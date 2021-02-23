@@ -1,0 +1,32 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 0,
+    "damage" : 0,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 1,
+    "enemyhp" : 50,
+    "equip" : "Stick",
+    "exp" : 5,
+    "gold" : 211,
+    "health" : 100,
+    "hp_potions" : 2,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 1,
+    "max_health" : 100,
+    "max_pot" : 12,
+    "name" : "\u00carr\u014dr S\u00e0\u00f1s",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612337327.806199,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

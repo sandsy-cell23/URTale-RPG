@@ -1,0 +1,34 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 0,
+    "damage" : 0,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 3,
+    "enemyhp" : 50,
+    "equip" : "Stick",
+    "exp" : 31,
+    "gold" : 116,
+    "health" : 100,
+    "hp_potions" : 3,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [
+        "Toy Knife"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 1,
+    "max_health" : 100,
+    "max_pot" : 12,
+    "name" : "DOGUITO",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1611980396.4001124,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

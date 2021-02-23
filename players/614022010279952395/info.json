@@ -1,0 +1,34 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 0,
+    "damage" : 1,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 32,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 175,
+    "gold" : 82,
+    "health" : 100,
+    "hp_potions" : 0,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 2,
+    "max_health" : 104,
+    "max_pot" : 12,
+    "name" : "E\u0335\u0360\u031br\u0338\u0307\u033fr\u0337\u033f\u033do\u0336\u0304\u030fr\u0338\u030e\u0303404 Sans",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612363284.7077827,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

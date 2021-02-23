@@ -1,0 +1,31 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1614044529.8955503,
+    "damage" : 1,
+    "deaths" : 2,
+    "defence" : 0,
+    "enemieskilled" : 14,
+    "enemyhp" : 161,
+    "equip" : "Stick",
+    "exp" : 0,
+    "gold" : 758,
+    "health" : 55,
+    "hp_potions" : 6,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 2,
+    "max_health" : 104,
+    "max_pot" : 12,
+    "name" : "SnowmanTDM",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1614086734.3973072,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

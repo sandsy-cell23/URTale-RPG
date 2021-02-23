@@ -1,0 +1,41 @@
+{
+    "bosshp" : 50,
+    "bosskilled" : 0,
+    "class" : "Undertale",
+    "daily_block" : 1611859073.0326316,
+    "damage" : 2,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 51,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 232,
+    "gold" : 395,
+    "health" : 100,
+    "hp_potions" : 28,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "\u2115\ud835\udd56\ud835\udd68\ud835\udd4e\ud835\udd60\ud835\udd63\ud835\udd5d\ud835\udd55 \ud835\udd4a\ud835\udd65\ud835\udd66\ud835\udd55\ud835\udd5a\ud835\udd60\ud835\udd6b",
+    "pet" : "None",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1611863487.0189753,
+    "roaming" : "False",
+    "selected_boss" : "None",
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

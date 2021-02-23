@@ -1,0 +1,42 @@
+{
+    "bosshp" : 50,
+    "bosskilled" : 0,
+    "class" : "Undertale",
+    "daily_block" : 1612699735.3322308,
+    "damage" : 9,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 94,
+    "enemyhp" : 50,
+    "equip" : "Ballet Shoes",
+    "exp" : 155,
+    "gold" : 974,
+    "health" : 100,
+    "hp_potions" : 12,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick",
+        "Tough Gloves"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 10,
+    "max_health" : 136,
+    "max_pot" : 12,
+    "name" : "ng42",
+    "pet" : "None",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612699982.376646,
+    "roaming" : "False",
+    "selected_boss" : "None",
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Manly Bandanna"
+}

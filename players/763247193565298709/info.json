@@ -1,0 +1,37 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1614029098.2921069,
+    "damage" : 2,
+    "deaths" : 2,
+    "defence" : 0,
+    "enemieskilled" : 22,
+    "enemyhp" : 76,
+    "equip" : "Tough Gloves",
+    "exp" : 61,
+    "gold" : 2020,
+    "health" : 100,
+    "hp_potions" : 19,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon"
+    ],
+    "inventory" : [
+        "Stick",
+        "Toy Knife"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "Jskrunch",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612894713.4963768,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Manly Bandanna"
+}

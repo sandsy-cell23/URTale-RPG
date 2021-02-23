@@ -1,0 +1,42 @@
+{
+    "bosshp" : 50,
+    "bosskilled" : 0,
+    "class" : "Undertale",
+    "daily_block" : 1614017156.5784013,
+    "damage" : 5,
+    "deaths" : 6,
+    "defence" : 0,
+    "enemieskilled" : 53,
+    "enemyhp" : 165,
+    "equip" : "Toy Knife",
+    "exp" : 544,
+    "gold" : 4106,
+    "health" : 100,
+    "hp_potions" : 19,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick",
+        "Tough Gloves"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 1,
+    "lvl" : 6,
+    "max_health" : 120,
+    "max_pot" : 12,
+    "name" : "Double_DOOP53455",
+    "pet" : "None",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1614017293.4308414,
+    "roaming" : "False",
+    "selected_boss" : "None",
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Manly Bandanna"
+}

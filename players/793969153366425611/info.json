@@ -1,0 +1,43 @@
+{
+    "bosshp" : 50,
+    "bosskilled" : 0,
+    "class" : "Undertale",
+    "daily_block" : 1612465483.62557,
+    "damage" : 7,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 146,
+    "enemyhp" : 50,
+    "equip" : "Tough Gloves",
+    "exp" : 157,
+    "gold" : 4591,
+    "health" : 100,
+    "hp_potions" : 14,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon"
+    ],
+    "inventory" : [
+        "Stick",
+        "Toy Knife"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 7,
+    "lvl" : 8,
+    "max_health" : 128,
+    "max_pot" : 12,
+    "name" : "gosh",
+    "pet" : "None",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1611943820.242787,
+    "roaming" : "False",
+    "selected_boss" : "None",
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Manly Bandanna"
+}

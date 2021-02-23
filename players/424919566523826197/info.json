@@ -1,0 +1,37 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1613179591.1107543,
+    "damage" : 7,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 110,
+    "enemyhp" : 50,
+    "equip" : "Tough Gloves",
+    "exp" : 0,
+    "gold" : 5083,
+    "health" : 100,
+    "hp_potions" : 26,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon"
+    ],
+    "inventory" : [
+        "Stick",
+        "Toy Knife"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 8,
+    "max_health" : 128,
+    "max_pot" : 12,
+    "name" : "Harvillain (best cat)",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613143016.2956104,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Manly Bandanna"
+}

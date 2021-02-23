@@ -1,0 +1,43 @@
+{
+    "bosshp" : 50,
+    "bosskilled" : 0,
+    "class" : "Undertale",
+    "daily_block" : 1614017161.4107213,
+    "damage" : 13,
+    "deaths" : 7,
+    "defence" : 0,
+    "enemieskilled" : 319,
+    "enemyhp" : 50,
+    "equip" : "Torn Notebook",
+    "exp" : 0,
+    "gold" : 17621,
+    "health" : 100,
+    "hp_potions" : 89,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Manly Bandanna"
+    ],
+    "inventory" : [
+        "Stick",
+        "Toy Knife"
+    ],
+    "location" : "Water Fall",
+    "lootbag" : 0,
+    "lvl" : 14,
+    "max_health" : 152,
+    "max_pot" : 12,
+    "name" : "bye",
+    "pet" : "None",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1614017254.2298315,
+    "roaming" : "False",
+    "selected_boss" : "None",
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Cloudy Glasses"
+}

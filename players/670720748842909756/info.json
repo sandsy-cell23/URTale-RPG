@@ -1,0 +1,34 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612903415.9015481,
+    "damage" : 1,
+    "deaths" : 2,
+    "defence" : 0,
+    "enemieskilled" : 13,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 24,
+    "gold" : 35,
+    "health" : 100,
+    "hp_potions" : 15,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 2,
+    "max_health" : 104,
+    "max_pot" : 12,
+    "name" : "patatax5",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612903728.6822128,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

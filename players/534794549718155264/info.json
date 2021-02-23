@@ -1,0 +1,42 @@
+{
+    "bosshp" : 50,
+    "bosskilled" : 0,
+    "class" : "Undertale",
+    "daily_block" : 1612204022.8316672,
+    "damage" : 9,
+    "deaths" : 5,
+    "defence" : 0,
+    "enemieskilled" : 119,
+    "enemyhp" : 107,
+    "equip" : "Ballet Shoes",
+    "exp" : 873,
+    "gold" : 87,
+    "health" : 100,
+    "hp_potions" : 1,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick",
+        "Toy Knife"
+    ],
+    "location" : "Water Fall",
+    "lootbag" : 0,
+    "lvl" : 10,
+    "max_health" : 136,
+    "max_pot" : 12,
+    "name" : "nik2000008",
+    "pet" : "None",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1611935274.5201774,
+    "roaming" : "False",
+    "selected_boss" : "None",
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Manly Bandanna"
+}

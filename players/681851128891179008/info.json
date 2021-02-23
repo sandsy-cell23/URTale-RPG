@@ -1,0 +1,32 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 0,
+    "damage" : 1,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 16,
+    "enemyhp" : 50,
+    "equip" : "Stick",
+    "exp" : 19,
+    "gold" : 207,
+    "health" : 100,
+    "hp_potions" : 4,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 1,
+    "lvl" : 2,
+    "max_health" : 104,
+    "max_pot" : 12,
+    "name" : "killerjump",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612455090.4528344,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

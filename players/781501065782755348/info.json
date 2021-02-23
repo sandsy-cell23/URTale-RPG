@@ -1,0 +1,35 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1613038047.8589816,
+    "damage" : 3,
+    "deaths" : 2,
+    "defence" : 0,
+    "enemieskilled" : 50,
+    "enemyhp" : 164,
+    "equip" : "Toy Knife",
+    "exp" : 27,
+    "gold" : 2456,
+    "health" : 100,
+    "hp_potions" : 4,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 4,
+    "max_health" : 112,
+    "max_pot" : 12,
+    "name" : "daskkiller",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613908842.140791,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

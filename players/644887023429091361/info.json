@@ -1,0 +1,33 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1613740629.7773497,
+    "damage" : 0,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 0,
+    "enemyhp" : 21,
+    "equip" : "Stick",
+    "exp" : 0,
+    "gold" : 4,
+    "health" : 100,
+    "hp_potions" : 4,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 1,
+    "max_health" : 100,
+    "max_pot" : 12,
+    "name" : "Gumdev",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613821079.1747847,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

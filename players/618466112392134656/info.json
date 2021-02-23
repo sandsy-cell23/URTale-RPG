@@ -1,0 +1,37 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612976140.859951,
+    "damage" : 5,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 85,
+    "enemyhp" : 50,
+    "equip" : "Tough Gloves",
+    "exp" : 265,
+    "gold" : 1349,
+    "health" : 100,
+    "hp_potions" : 4,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon"
+    ],
+    "inventory" : [
+        "Stick",
+        "Toy Knife"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 1,
+    "lvl" : 6,
+    "max_health" : 120,
+    "max_pot" : 12,
+    "name" : "Soup",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1614026366.0608492,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Manly Bandanna"
+}

@@ -1,0 +1,36 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612679905.6530287,
+    "damage" : 1,
+    "deaths" : 2,
+    "defence" : 0,
+    "enemieskilled" : 18,
+    "enemyhp" : 12,
+    "equip" : "Toy Knife",
+    "exp" : 20,
+    "gold" : 2460,
+    "health" : 100,
+    "hp_potions" : 2,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 2,
+    "max_health" : 104,
+    "max_pot" : 12,
+    "name" : "delta_sans",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612428132.5365307,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

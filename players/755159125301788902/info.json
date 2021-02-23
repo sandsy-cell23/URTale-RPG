@@ -1,0 +1,32 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612378014.2549937,
+    "damage" : 0,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 0,
+    "enemyhp" : 44,
+    "equip" : "Stick",
+    "exp" : 0,
+    "gold" : 708,
+    "health" : 100,
+    "hp_potions" : 9,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 1,
+    "max_health" : 100,
+    "max_pot" : 12,
+    "name" : "CrashOrpheous566",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612378402.808734,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

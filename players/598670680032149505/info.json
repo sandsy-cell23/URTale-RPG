@@ -1,0 +1,38 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1614035807.9626749,
+    "damage" : 3,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 24,
+    "enemyhp" : 157,
+    "equip" : "Tough Gloves",
+    "exp" : 0,
+    "gold" : 1633,
+    "health" : 100,
+    "hp_potions" : 16,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon"
+    ],
+    "inventory" : [
+        "Stick",
+        "Toy Knife"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 4,
+    "max_health" : 112,
+    "max_pot" : 12,
+    "name" : "davidsans",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613890465.046754,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Manly Bandanna"
+}

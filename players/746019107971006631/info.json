@@ -1,0 +1,33 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1613322655.8159225,
+    "damage" : 2,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 43,
+    "enemyhp" : 50,
+    "equip" : "Stick",
+    "exp" : 84,
+    "gold" : 1158,
+    "health" : 100,
+    "hp_potions" : 8,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "DEVIL",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613923561.2907205,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

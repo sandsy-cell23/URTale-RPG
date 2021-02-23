@@ -1,0 +1,37 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1614086638.156221,
+    "damage" : 4,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 87,
+    "enemyhp" : 50,
+    "equip" : "Tough Gloves",
+    "exp" : 54,
+    "gold" : 1772,
+    "health" : 71,
+    "hp_potions" : 9,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon"
+    ],
+    "inventory" : [
+        "Stick",
+        "Toy Knife"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 5,
+    "max_health" : 116,
+    "max_pot" : 12,
+    "name" : "ricsi",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612962150.3906937,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Manly Bandanna"
+}

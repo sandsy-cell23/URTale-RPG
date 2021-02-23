@@ -1,0 +1,31 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 0,
+    "damage" : 0,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 0,
+    "enemyhp" : 192,
+    "equip" : "Stick",
+    "exp" : 0,
+    "gold" : 200,
+    "health" : 100,
+    "hp_potions" : 4,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 1,
+    "max_health" : 100,
+    "max_pot" : 12,
+    "name" : "\ud83e\udd8b\u263e\u262f\ud835\udc74\ud835\udc8a\ud835\udc9b\ud835\udc96\ud835\udc8e\ud835\udc8a \ud835\udc74\ud835\udc96\ud835\udc93\ud835\udc82\ud835\udc8c\ud835\udc82\ud835\udc8e\ud835\udc8a\u262f\u263d\ud83e\udd8b",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612664105.5916555,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

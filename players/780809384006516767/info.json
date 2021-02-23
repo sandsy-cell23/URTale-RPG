@@ -1,0 +1,37 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1614042110.433884,
+    "damage" : 5,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 74,
+    "enemyhp" : 131,
+    "equip" : "Tough Gloves",
+    "exp" : 392,
+    "gold" : 1556,
+    "health" : 100,
+    "hp_potions" : 10,
+    "in_fight" : 1,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon"
+    ],
+    "inventory" : [
+        "Stick",
+        "Toy Knife"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 6,
+    "max_health" : 120,
+    "max_pot" : 12,
+    "name" : "CoolSkeleton95!",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1614047241.862897,
+    "selected_enemy" : "Dogi",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Manly Bandanna"
+}

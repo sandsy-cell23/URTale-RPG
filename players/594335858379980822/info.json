@@ -1,0 +1,35 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1613339297.60475,
+    "damage" : 1,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 22,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 105,
+    "gold" : 923,
+    "health" : 100,
+    "hp_potions" : 2,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 2,
+    "max_health" : 104,
+    "max_pot" : 12,
+    "name" : "Colin the hooman",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613248511.9883277,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

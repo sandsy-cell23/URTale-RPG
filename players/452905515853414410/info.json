@@ -1,0 +1,31 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 0,
+    "damage" : 0,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 8,
+    "enemyhp" : 50,
+    "equip" : "Stick",
+    "exp" : 59,
+    "gold" : 106,
+    "health" : 100,
+    "hp_potions" : 6,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 1,
+    "max_health" : 100,
+    "max_pot" : 12,
+    "name" : "(\u25d5\u03c9\u25d5\u273f) \u2665 Horror \u2665",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612991609.8901448,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

@@ -1,0 +1,42 @@
+{
+    "bosshp" : 50,
+    "bosskilled" : 0,
+    "class" : "Undertale",
+    "daily_block" : 1612614781.5251923,
+    "damage" : 2,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 23,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 0,
+    "gold" : 2507,
+    "health" : 100,
+    "hp_potions" : 14,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "\u2744IceNinja1138\u2744",
+    "pet" : "None",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612443837.0452845,
+    "roaming" : "False",
+    "selected_boss" : "None",
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Manly Bandanna"
+}

@@ -1,0 +1,33 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1614014032.7288814,
+    "damage" : 1,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 12,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 23,
+    "gold" : 394,
+    "health" : 100,
+    "hp_potions" : 0,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 2,
+    "max_health" : 104,
+    "max_pot" : 12,
+    "name" : "Meman",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 0,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

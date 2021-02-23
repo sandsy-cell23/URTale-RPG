@@ -1,0 +1,35 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1614009875.8731084,
+    "damage" : 2,
+    "deaths" : 2,
+    "defence" : 0,
+    "enemieskilled" : 40,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 215,
+    "gold" : 28,
+    "health" : 78,
+    "hp_potions" : 1,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "omegaswap",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1614014757.138357,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

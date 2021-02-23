@@ -1,0 +1,35 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1614042658.749785,
+    "damage" : 2,
+    "deaths" : 5,
+    "defence" : 0,
+    "enemieskilled" : 47,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 76,
+    "gold" : 12,
+    "health" : 95,
+    "hp_potions" : 0,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "DimondDeluxe2",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1614086911.1220143,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

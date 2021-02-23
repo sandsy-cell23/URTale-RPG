@@ -1,0 +1,31 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 0,
+    "damage" : 2,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 48,
+    "enemyhp" : 50,
+    "equip" : "Stick",
+    "exp" : 114,
+    "gold" : 971,
+    "health" : 54,
+    "hp_potions" : 12,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "flareon987",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613826125.7808056,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

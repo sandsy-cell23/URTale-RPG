@@ -1,0 +1,31 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 0,
+    "damage" : 0,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 3,
+    "enemyhp" : 50,
+    "equip" : "Stick",
+    "exp" : 30,
+    "gold" : 119,
+    "health" : 100,
+    "hp_potions" : 0,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 1,
+    "max_health" : 100,
+    "max_pot" : 12,
+    "name" : "POKEMONCU AL\u0130 K.",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613645598.9014156,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

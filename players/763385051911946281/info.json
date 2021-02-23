@@ -1,0 +1,34 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612462497.755614,
+    "damage" : 4,
+    "deaths" : 9,
+    "defence" : 0,
+    "enemieskilled" : 77,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 128,
+    "gold" : 26,
+    "health" : 100,
+    "hp_potions" : 3,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 5,
+    "max_health" : 116,
+    "max_pot" : 12,
+    "name" : "The X Event",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1614010792.262743,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

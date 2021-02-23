@@ -1,0 +1,36 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612483091.3731482,
+    "damage" : 5,
+    "deaths" : 4,
+    "defence" : 0,
+    "enemieskilled" : 82,
+    "enemyhp" : 153,
+    "equip" : "Toy Knife",
+    "exp" : 497,
+    "gold" : 775,
+    "health" : 100,
+    "hp_potions" : 15,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 6,
+    "max_health" : 120,
+    "max_pot" : 12,
+    "name" : "spooky",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612970606.1064117,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

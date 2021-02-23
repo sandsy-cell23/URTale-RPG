@@ -1,0 +1,36 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612023817.2131536,
+    "damage" : 2,
+    "deaths" : 5,
+    "defence" : 0,
+    "enemieskilled" : 50,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 206,
+    "gold" : 1075,
+    "health" : 100,
+    "hp_potions" : 2,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "Kitty.chan",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1611917651.7706616,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

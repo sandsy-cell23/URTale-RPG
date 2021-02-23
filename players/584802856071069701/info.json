@@ -1,0 +1,35 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1613780651.0184717,
+    "damage" : 2,
+    "deaths" : 2,
+    "defence" : 0,
+    "enemieskilled" : 55,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 130,
+    "gold" : 0,
+    "health" : 100,
+    "hp_potions" : 0,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 2,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "Deal Maker",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613785131.6765223,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

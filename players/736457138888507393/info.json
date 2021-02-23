@@ -1,0 +1,34 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612831650.3377233,
+    "damage" : 0,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 10,
+    "enemyhp" : 50,
+    "equip" : "Stick",
+    "exp" : 72,
+    "gold" : 1058,
+    "health" : 100,
+    "hp_potions" : 3,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 1,
+    "max_health" : 100,
+    "max_pot" : 12,
+    "name" : "Jomin",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612442498.7513418,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

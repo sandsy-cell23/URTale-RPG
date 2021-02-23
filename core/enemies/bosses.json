@@ -1,0 +1,214 @@
+{
+  "locations": {
+    "Ruins": {
+      "enemies": {
+        "Toriel": {
+          "min_health": 170,
+          "max_health": 220,
+          "min_dmg": 20,
+          "max_dmg": 40,
+          "min_drop": 80,
+          "max_drop": 120,
+          "min_xp": 70,
+          "max_xp": 200,
+          "items": [
+
+          ],
+          "dg2": "Knows the best for You."
+        }
+      },
+      "pets": [
+
+      ]
+    },
+    "Snowdin": {
+      "enemies": {
+        "Dogi": {
+          "min_health": 120,
+          "max_health": 180,
+          "min_dmg": 10,
+          "max_dmg": 19,
+          "min_drop": 80,
+          "max_drop": 90,
+          "min_xp": 400,
+          "max_xp": 411,
+          "items": [
+
+          ],
+          "dg 2": "Two Couples with eh?"
+        },
+        "Papyrus": {
+          "min_health": 580,
+          "max_health": 900,
+          "min_dmg": 30,
+          "max_dmg": 40,
+          "min_drop": 80,
+          "max_drop": 109,
+          "min_xp": 500,
+          "max_xp": 700,
+          "items": [
+
+          ],
+          "dg2": "He likes to say nyeh heh heeh!"
+        }
+      },
+      "pets": [
+
+      ]
+    },
+    "Water Fall": {
+      "enemies": {
+        "Dummy": {
+          "min_health": 620,
+          "max_health": 640,
+          "min_dmg": 43,
+          "max_dmg": 54,
+          "min_drop": 120,
+          "max_drop": 210,
+          "min_xp": 400,
+          "max_xp": 800,
+          "items": [
+
+          ],
+          "dg2": "He is so angry"
+        },
+        "Undyne": {
+          "min_health": 720,
+          "max_health": 740,
+          "min_dmg": 43,
+          "max_dmg": 60,
+          "min_drop": 140,
+          "max_drop": 180,
+          "min_xp": 1200,
+          "max_xp": 1500,
+          "items": [
+
+          ],
+          "dg2": "The heroine that never Gives Up!"
+        }
+      },
+      "pets": [
+
+      ]
+    },
+    "Hot Land": {
+      "enemies": {
+        "Royal Guards": {
+          "min_health": 220,
+          "max_health": 320,
+          "min_dmg": 64,
+          "max_dmg": 70,
+          "min_drop": 310,
+          "max_drop": 430,
+          "min_xp": 800,
+          "max_xp": 900,
+          "items": [
+
+          ],
+          "dg": "They seem not happy!\n"
+        },
+        "Muffet": {
+          "min_health": 430,
+          "max_health": 540,
+          "min_dmg": 43,
+          "max_dmg": 48,
+          "min_drop": 49,
+          "max_drop": 80,
+          "min_xp": 1200,
+          "max_xp": 1300,
+          "items": [
+
+          ],
+          "dg2": "if she invites you to her parlor, excuse yourself"
+        }
+      },
+      "pets": [
+
+      ]
+    },
+    "Core": {
+      "enemies": {
+        "MettatonEX": {
+          "min_health": 620,
+          "max_health": 730,
+          "min_dmg": 70,
+          "max_dmg": 90,
+          "min_drop": 70,
+          "max_drop": 83,
+          "min_xp": 3200,
+          "max_xp": 4000,
+          "items": [
+
+          ],
+          "dg2": "His Weak point is in his heart-shaped core"
+        }
+      },
+      "pets": [
+
+      ]
+    },
+    "last corridor": {
+      "enemies": {
+        "Sans": {
+          "min_health": 3400,
+          "max_health": 5400,
+          "min_dmg": 120,
+          "max_dmg": 180,
+          "min_drop": 530,
+          "max_drop": 890,
+          "min_xp": 7300,
+          "max_xp": 7900,
+          "items": [
+
+          ],
+          "dg2" : "The easiest enemy!, Deals Only 1 DMG"
+        }
+      },
+      "pets": [
+
+      ]
+    },
+    "The barrier": {
+      "enemies": {
+        "Asgore": {
+          "min_health": 3200,
+          "max_health": 4100,
+          "min_dmg": 70,
+          "max_dmg": 90,
+          "min_drop": 70,
+          "max_drop": 83,
+          "min_xp": 7300,
+          "max_xp": 7900,
+          "items": [
+
+          ],
+          "dg2" : "He doesn't want to fight, but he faced enough"
+        }
+      },
+      "pets": [
+
+      ]
+    },
+    "Nothing": {
+      "enemies": {
+        "Chara": {
+          "min_health": 9999,
+          "max_health": 10000,
+          "min_dmg": 0,
+          "max_dmg": 999,
+          "min_drop": 9999,
+          "max_drop": 10000,
+          "min_xp": 9999,
+          "max_xp": 10000,
+          "items": [
+
+          ],
+          "dg2" : "The first fallen human"
+        }
+      },
+      "pets": [
+
+      ]
+    }
+  }
+}

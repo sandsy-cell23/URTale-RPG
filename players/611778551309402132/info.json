@@ -1,0 +1,32 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612540183.8203921,
+    "damage" : 0,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 4,
+    "enemyhp" : 194,
+    "equip" : "Stick",
+    "exp" : 53,
+    "gold" : 1104,
+    "health" : 100,
+    "hp_potions" : 1,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 1,
+    "max_health" : 100,
+    "max_pot" : 12,
+    "name" : "Cross Chara (furry)",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612551463.2226055,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

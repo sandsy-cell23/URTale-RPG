@@ -1,0 +1,31 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 0,
+    "damage" : 1,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 18,
+    "enemyhp" : 50,
+    "equip" : "Stick",
+    "exp" : 76,
+    "gold" : 638,
+    "health" : 100,
+    "hp_potions" : 0,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 2,
+    "max_health" : 104,
+    "max_pot" : 12,
+    "name" : "Tim.",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612859346.103952,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

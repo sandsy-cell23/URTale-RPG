@@ -1,0 +1,33 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1614073942.1873329,
+    "damage" : 2,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 15,
+    "enemyhp" : 50,
+    "equip" : "Stick",
+    "exp" : 0,
+    "gold" : 237,
+    "health" : 92,
+    "hp_potions" : 4,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "nousagi",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1614075375.9728665,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

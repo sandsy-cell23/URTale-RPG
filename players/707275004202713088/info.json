@@ -1,0 +1,32 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 0,
+    "damage" : 0,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 6,
+    "enemyhp" : 204,
+    "equip" : "Stick",
+    "exp" : 49,
+    "gold" : 214,
+    "health" : 7,
+    "hp_potions" : 3,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 1,
+    "max_health" : 100,
+    "max_pot" : 12,
+    "name" : "FrozenPotato",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1614049644.8459535,
+    "selected_enemy" : "Toriel",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

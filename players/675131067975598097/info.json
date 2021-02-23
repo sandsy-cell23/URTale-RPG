@@ -1,0 +1,33 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612724215.498775,
+    "damage" : 1,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 15,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 59,
+    "gold" : 828,
+    "health" : 97,
+    "hp_potions" : 8,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 2,
+    "max_health" : 104,
+    "max_pot" : 12,
+    "name" : "Social Idiot",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612906569.13543,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

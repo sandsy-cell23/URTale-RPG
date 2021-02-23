@@ -1,0 +1,35 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1613460445.7182045,
+    "damage" : 2,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 41,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 93,
+    "gold" : 222,
+    "health" : 100,
+    "hp_potions" : 2,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 1,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "ParrotGuy",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613458790.8081295,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

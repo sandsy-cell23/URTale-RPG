@@ -1,0 +1,34 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612422285.446739,
+    "damage" : 0,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 2,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 16,
+    "gold" : 968,
+    "health" : 100,
+    "hp_potions" : 0,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 1,
+    "max_health" : 100,
+    "max_pot" : 12,
+    "name" : "Allorex",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612422300.3790648,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

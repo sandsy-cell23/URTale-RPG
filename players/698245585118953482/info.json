@@ -1,0 +1,34 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 0,
+    "damage" : 3,
+    "deaths" : 3,
+    "defence" : 0,
+    "enemieskilled" : 60,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 255,
+    "gold" : 78,
+    "health" : 100,
+    "hp_potions" : 14,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 4,
+    "max_health" : 112,
+    "max_pot" : 12,
+    "name" : "mr.omni",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612086458.6117642,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

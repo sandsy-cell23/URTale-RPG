@@ -1,0 +1,46 @@
+{
+    "bosshp" : 50,
+    "bosskilled" : 0,
+    "class" : "Undertale",
+    "daily_block" : 1613296437.8073971,
+    "damage" : 11,
+    "deaths" : 10,
+    "defence" : 0,
+    "enemieskilled" : 122,
+    "enemyhp" : 180,
+    "equip" : "Ballet Shoes",
+    "exp" : 0,
+    "gold" : 4609,
+    "health" : 100,
+    "hp_potions" : 12,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon",
+        "Manly Bandanna"
+    ],
+    "inventory" : [
+        "Toy Knife",
+        "Tough Gloves",
+        "Tough Gloves",
+        "Stick"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 12,
+    "max_health" : 144,
+    "max_pot" : 12,
+    "name" : "Cyber",
+    "pet" : "None",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612684156.1944616,
+    "roaming" : "False",
+    "selected_boss" : "Chara",
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Old Tutu"
+}

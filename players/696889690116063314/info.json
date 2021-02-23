@@ -1,0 +1,44 @@
+{
+    "bosshp" : 50,
+    "bosskilled" : 0,
+    "class" : "Undertale",
+    "daily_block" : 1614030827.111436,
+    "damage" : 9,
+    "deaths" : 7,
+    "defence" : 0,
+    "enemieskilled" : 58,
+    "enemyhp" : 50,
+    "equip" : "Tough Gloves",
+    "exp" : 788,
+    "gold" : 1316,
+    "health" : 100,
+    "hp_potions" : 1,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon",
+        "Manly Bandanna"
+    ],
+    "inventory" : [
+        "Stick",
+        "Toy Knife"
+    ],
+    "location" : "Water Fall",
+    "lootbag" : 0,
+    "lvl" : 10,
+    "max_health" : 136,
+    "max_pot" : 12,
+    "name" : "Daisu",
+    "pet" : "None",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613654419.1371472,
+    "roaming" : "False",
+    "selected_boss" : "None",
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Old Tutu"
+}

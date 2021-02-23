@@ -1,0 +1,32 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 0,
+    "damage" : 1,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 15,
+    "enemyhp" : 11,
+    "equip" : "Stick",
+    "exp" : 33,
+    "gold" : 549,
+    "health" : 100,
+    "hp_potions" : 3,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 2,
+    "max_health" : 104,
+    "max_pot" : 12,
+    "name" : "koXular noob",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612578603.4743958,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

@@ -1,0 +1,31 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 0,
+    "damage" : 1,
+    "deaths" : 3,
+    "defence" : 0,
+    "enemieskilled" : 30,
+    "enemyhp" : 11,
+    "equip" : "Stick",
+    "exp" : 184,
+    "gold" : 847,
+    "health" : 80,
+    "hp_potions" : 1,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 2,
+    "max_health" : 104,
+    "max_pot" : 12,
+    "name" : "ATA3545",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613716944.6585426,
+    "selected_enemy" : "Vegatoid",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

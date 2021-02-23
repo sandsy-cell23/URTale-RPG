@@ -1,0 +1,36 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612977061.7947097,
+    "damage" : 2,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 28,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 18,
+    "gold" : 1267,
+    "health" : 100,
+    "hp_potions" : 11,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "lucario",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612991749.6846876,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

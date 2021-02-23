@@ -1,0 +1,36 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612884124.6044657,
+    "damage" : 1,
+    "deaths" : 2,
+    "defence" : 0,
+    "enemieskilled" : 26,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 113,
+    "gold" : 2075,
+    "health" : 100,
+    "hp_potions" : 2,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Faded Ribbon"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 2,
+    "max_health" : 104,
+    "max_pot" : 12,
+    "name" : "tezcat07",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612466302.2849376,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

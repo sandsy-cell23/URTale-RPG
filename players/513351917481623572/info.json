@@ -1,0 +1,33 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1613460788.4984312,
+    "damage" : 99,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 3,
+    "enemyhp" : 96,
+    "equip" : "Worn Dagger",
+    "exp" : 398,
+    "gold" : 96382,
+    "health" : 100,
+    "hp_potions" : 7,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Hot Land",
+    "lootbag" : 0,
+    "lvl" : 99,
+    "max_health" : 396,
+    "max_pot" : 12,
+    "name" : "LetsChill",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612959009.135051,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

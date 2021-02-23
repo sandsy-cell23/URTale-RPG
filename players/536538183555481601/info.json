@@ -1,0 +1,32 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612429688.0396566,
+    "damage" : 0,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 1,
+    "enemyhp" : 159,
+    "equip" : "Stick",
+    "exp" : 2,
+    "gold" : 787,
+    "health" : 100,
+    "hp_potions" : 3,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 1,
+    "max_health" : 100,
+    "max_pot" : 12,
+    "name" : "yaki",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612429443.270111,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

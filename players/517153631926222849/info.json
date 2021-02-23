@@ -1,0 +1,35 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 0,
+    "damage" : 4,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 117,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 269,
+    "gold" : 673,
+    "health" : 100,
+    "hp_potions" : 9,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 5,
+    "max_health" : 116,
+    "max_pot" : 12,
+    "name" : "Mrshadow",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613200970.974657,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

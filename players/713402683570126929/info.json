@@ -1,0 +1,37 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1614010875.8099475,
+    "damage" : 6,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 188,
+    "enemyhp" : 50,
+    "equip" : "Tough Gloves",
+    "exp" : 93,
+    "gold" : 661,
+    "health" : 76,
+    "hp_potions" : 4,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon"
+    ],
+    "inventory" : [
+        "Stick",
+        "Toy Knife"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 7,
+    "max_health" : 124,
+    "max_pot" : 12,
+    "name" : "lol?",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1614055101.9568055,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Manly Bandanna"
+}

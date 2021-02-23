@@ -1,0 +1,34 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1611931202.960395,
+    "damage" : 1,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 17,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 77,
+    "gold" : 701,
+    "health" : 100,
+    "hp_potions" : 7,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 2,
+    "max_health" : 104,
+    "max_pot" : 12,
+    "name" : "Emma_",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1611932008.9855988,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

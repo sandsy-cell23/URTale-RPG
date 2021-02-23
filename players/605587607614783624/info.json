@@ -1,0 +1,42 @@
+{
+    "bosshp" : 50,
+    "bosskilled" : 0,
+    "class" : "Undertale",
+    "daily_block" : 1612706929.8552675,
+    "damage" : 2,
+    "deaths" : 4,
+    "defence" : 0,
+    "enemieskilled" : 36,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 61,
+    "gold" : 6,
+    "health" : 100,
+    "hp_potions" : 12,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "LEGENDARY P\u30b4\u30b4\u30b4",
+    "pet" : "None",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1611941770.4131076,
+    "roaming" : "False",
+    "selected_boss" : "None",
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Manly Bandanna"
+}

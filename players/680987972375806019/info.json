@@ -1,0 +1,37 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612970818.2118382,
+    "damage" : 2,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 35,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 33,
+    "gold" : 3594,
+    "health" : 100,
+    "hp_potions" : 17,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 5,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "LinuxWasAlreadyTaken",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612474091.9594846,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

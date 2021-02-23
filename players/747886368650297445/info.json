@@ -1,0 +1,38 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612146235.9687135,
+    "damage" : 8,
+    "deaths" : 2,
+    "defence" : 0,
+    "enemieskilled" : 82,
+    "enemyhp" : 55,
+    "equip" : "Tough Gloves",
+    "exp" : 491,
+    "gold" : 626,
+    "health" : 100,
+    "hp_potions" : 18,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon"
+    ],
+    "inventory" : [
+        "Stick",
+        "Toy Knife"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 9,
+    "max_health" : 132,
+    "max_pot" : 12,
+    "name" : "Sanns",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612387762.958713,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Manly Bandanna"
+}

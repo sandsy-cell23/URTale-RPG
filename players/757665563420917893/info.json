@@ -1,0 +1,31 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612894050.1525662,
+    "damage" : 0,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 3,
+    "enemyhp" : 50,
+    "equip" : "Stick",
+    "exp" : 18,
+    "gold" : 1168,
+    "health" : 100,
+    "hp_potions" : 3,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 1,
+    "max_health" : 100,
+    "max_pot" : 12,
+    "name" : "fantasma (\u2022\ufe35\u2022)",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612894683.7903898,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

@@ -1,0 +1,41 @@
+{
+    "bosshp" : 50,
+    "bosskilled" : 0,
+    "class" : "Undertale",
+    "daily_block" : 1613300366.612212,
+    "damage" : 5,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 137,
+    "enemyhp" : 50,
+    "equip" : "Tough Gloves",
+    "exp" : 315,
+    "gold" : 1712,
+    "health" : 100,
+    "hp_potions" : 5,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [
+        "Stick",
+        "Toy Knife",
+        "Toy Knife"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 6,
+    "max_health" : 120,
+    "max_pot" : 12,
+    "name" : "bodyakod...?",
+    "pet" : "None",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1611757752.6231167,
+    "roaming" : "False",
+    "selected_boss" : "None",
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

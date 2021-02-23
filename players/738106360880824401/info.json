@@ -1,0 +1,38 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1613388724.921165,
+    "damage" : 2,
+    "deaths" : 0,
+    "defence" : 0,
+    "enemieskilled" : 19,
+    "enemyhp" : 161,
+    "equip" : "Tough Gloves",
+    "exp" : 18,
+    "gold" : 3006,
+    "health" : 100,
+    "hp_potions" : 33,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon"
+    ],
+    "inventory" : [
+        "Stick",
+        "Toy Knife"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "Lord Of The Universe",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613393978.889711,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Manly Bandanna"
+}

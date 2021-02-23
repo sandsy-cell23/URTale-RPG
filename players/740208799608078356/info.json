@@ -1,0 +1,36 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612448703.8885875,
+    "damage" : 4,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 98,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 372,
+    "gold" : 3841,
+    "health" : 100,
+    "hp_potions" : 7,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 5,
+    "max_health" : 116,
+    "max_pot" : 12,
+    "name" : "Sans-kun.",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612448760.2531612,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

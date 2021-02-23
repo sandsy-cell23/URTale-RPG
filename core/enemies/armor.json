@@ -1,0 +1,42 @@
+{
+    "Bandage" : {
+        "min_dfs" : 1,
+        "max_dfs" : 3
+    },
+    "Faded Ribbon" : {
+        "min_dfs" : 6,
+        "max_dfs" : 9
+    },
+    "Manly Bandanna" : {
+        "min_dfs" : 12,
+        "max_dfs" : 16
+    },
+    "Old Tutu" : {
+        "min_dfs" : 17,
+        "max_dfs" : 19
+    },
+    "Cloudy Glasses" : {
+      "min_dfs" : 8,
+      "max_dfs" : 14
+    },
+    "Temmie Armor" : {
+        "min_dfs" : 32,
+        "max_dfs" : 36
+    },
+    "Stained Arpon" : {
+        "min_dfs" : 38,
+        "max_dfs" : 42
+    },
+    "Cowboy Hat" : {
+        "min_dfs" : 43,
+        "max_dfs" : 46
+    },
+    "The Locket" : {
+        "min_dfs" : 76,
+        "max_dfs" : 87
+    },
+    "Heart Locket" : {
+        "min_dfs" : 59,
+        "max_dfs" : 62
+    }
+}

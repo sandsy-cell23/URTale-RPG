@@ -1,0 +1,35 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1612879497.0511556,
+    "damage" : 2,
+    "deaths" : 2,
+    "defence" : 0,
+    "enemieskilled" : 26,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 256,
+    "gold" : 129,
+    "health" : 100,
+    "hp_potions" : 12,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "\u262dZerroYTP\u262d [\u041f\u041b]",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613071786.9851656,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

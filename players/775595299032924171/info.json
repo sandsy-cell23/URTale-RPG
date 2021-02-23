@@ -1,0 +1,33 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1613878978.3416646,
+    "damage" : 1,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 15,
+    "enemyhp" : 166,
+    "equip" : "Toy Knife",
+    "exp" : 13,
+    "gold" : 248,
+    "health" : 100,
+    "hp_potions" : 0,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 2,
+    "max_health" : 104,
+    "max_pot" : 12,
+    "name" : "Manuel_Underfan",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613886553.35493,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

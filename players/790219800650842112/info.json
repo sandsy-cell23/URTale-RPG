@@ -1,0 +1,38 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1614050478.7643588,
+    "damage" : 4,
+    "deaths" : 2,
+    "defence" : 0,
+    "enemieskilled" : 48,
+    "enemyhp" : 50,
+    "equip" : "Tough Gloves",
+    "exp" : 66,
+    "gold" : 2688,
+    "health" : 100,
+    "hp_potions" : 13,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon"
+    ],
+    "inventory" : [
+        "Stick",
+        "Toy Knife"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 5,
+    "max_health" : 116,
+    "max_pot" : 12,
+    "name" : "Celestragon",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613885718.6848812,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Manly Bandanna"
+}

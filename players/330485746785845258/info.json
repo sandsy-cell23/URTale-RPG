@@ -1,0 +1,34 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1611929721.8682022,
+    "damage" : 0,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 1,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 12,
+    "gold" : 205,
+    "health" : 100,
+    "hp_potions" : 4,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 1,
+    "max_health" : 100,
+    "max_pot" : 12,
+    "name" : "\ud83c\udf56\u00b7\u263eAnthony\u263d\u00b7\ud83d\udc09",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1611930111.6560216,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

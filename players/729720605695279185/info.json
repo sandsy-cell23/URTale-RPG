@@ -1,0 +1,33 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1614013395.308596,
+    "damage" : 1,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 21,
+    "enemyhp" : 50,
+    "equip" : "Stick",
+    "exp" : 80,
+    "gold" : 332,
+    "health" : 46,
+    "hp_potions" : 20,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 2,
+    "max_health" : 104,
+    "max_pot" : 12,
+    "name" : "eevee",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1614014203.7816439,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

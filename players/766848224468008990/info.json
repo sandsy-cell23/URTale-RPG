@@ -1,0 +1,37 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1614034667.071461,
+    "damage" : 8,
+    "deaths" : 4,
+    "defence" : 0,
+    "enemieskilled" : 143,
+    "enemyhp" : 50,
+    "equip" : "Tough Gloves",
+    "exp" : 341,
+    "gold" : 2935,
+    "health" : 123,
+    "hp_potions" : 2,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon"
+    ],
+    "inventory" : [
+        "Stick",
+        "Toy Knife"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 3,
+    "lvl" : 9,
+    "max_health" : 132,
+    "max_pot" : 12,
+    "name" : "\u0d9e Flaky \u0d9e",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1614088361.5291333,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Manly Bandanna"
+}

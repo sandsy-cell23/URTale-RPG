@@ -1,0 +1,34 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1613158766.1175382,
+    "damage" : 1,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 17,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 92,
+    "gold" : 1201,
+    "health" : 100,
+    "hp_potions" : 17,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 2,
+    "max_health" : 104,
+    "max_pot" : 12,
+    "name" : "zacharydouglas",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613159413.7233567,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

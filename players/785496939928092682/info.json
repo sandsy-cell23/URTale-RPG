@@ -1,0 +1,33 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1613641406.527722,
+    "damage" : 3,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 43,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 105,
+    "gold" : 951,
+    "health" : 100,
+    "hp_potions" : 1,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 1,
+    "lvl" : 4,
+    "max_health" : 112,
+    "max_pot" : 12,
+    "name" : "FnafSkeleton",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613642482.5477147,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

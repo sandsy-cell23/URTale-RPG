@@ -1,0 +1,35 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1613964524.183827,
+    "damage" : 3,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 69,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 374,
+    "gold" : 676,
+    "health" : 100,
+    "hp_potions" : 8,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 1,
+    "lvl" : 4,
+    "max_health" : 112,
+    "max_pot" : 12,
+    "name" : "Wire!Sans",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1614018676.2466614,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

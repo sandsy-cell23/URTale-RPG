@@ -1,0 +1,31 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1613326434.0800364,
+    "damage" : 2,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 19,
+    "enemyhp" : 132,
+    "equip" : "Stick",
+    "exp" : 20,
+    "gold" : 804,
+    "health" : 100,
+    "hp_potions" : 13,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "Ghostus",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613994195.0648725,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

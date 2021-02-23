@@ -1,0 +1,38 @@
+{
+    "Stick" : {
+        "min_dmg" : 7,
+        "max_dmg" : 8
+    },
+    "Toy Knife" : {
+        "min_dmg" : 10,
+        "max_dmg" : 14
+    },
+    "Tough Gloves" : {
+        "min_dmg" : 16,
+        "max_dmg" : 18
+    },
+    "Ballet Shoes" : {
+        "min_dmg" : 22,
+        "max_dmg" : 26
+    },
+    "Torn Notebook" : {
+      "min_dmg" : 22,
+      "max_dmg" : 25
+    },
+    "Burnt Pan" : {
+        "min_dmg" : 27,
+        "max_dmg" : 32
+    },
+    "Empty Gun" : {
+        "min_dmg" : 40,
+        "max_dmg" : 45
+    },
+    "Worn Dagger" : {
+        "min_dmg" : 56,
+        "max_dmg" : 76
+    },
+    "Real Knife" : {
+        "min_dmg" : 80,
+        "max_dmg" : 99
+    }
+}

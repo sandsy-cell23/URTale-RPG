@@ -1,0 +1,369 @@
+{
+  "locations": {
+    "Ruins": {
+      "enemies": {
+        "Froggit": {
+          "min_health": 20,
+          "max_health": 23,
+          "min_dmg": 3,
+          "max_dmg": 9,
+          "min_drop": 7,
+          "max_drop": 14,
+          "min_xp": 3,
+          "max_xp": 6,
+          "items": [
+
+          ],
+          "dg": "Has Hopped In",
+          "dg2": "Life is difficult for this enemy."
+        },
+        "Whimsun": {
+          "min_health": 12,
+          "max_health": 17,
+          "min_dmg": 3,
+          "max_dmg": 6,
+          "min_drop": 1,
+          "max_drop": 10,
+          "min_xp": 2,
+          "max_xp": 5,
+          "items": [
+
+          ],
+          "dg": "Came by mistake!",
+          "dg2": "This monster is too sensitive to fight"
+        },
+        "Loox": {
+          "min_health": 40,
+          "max_health": 50,
+          "min_dmg": 7,
+          "max_dmg": 13,
+          "min_drop": 40,
+          "max_drop": 70,
+          "min_xp": 10,
+          "max_xp": 13,
+          "items": [
+
+          ],
+          "dg": "Drew near",
+          "dg2": "Don't pick on him. Family name: Eyewalker."
+        },
+        "Vegatoid": {
+          "min_health": 27,
+          "max_health": 30,
+          "min_dmg": 10,
+          "max_dmg": 14,
+          "min_drop": 40,
+          "max_drop": 70,
+          "min_xp": 12,
+          "max_xp": 16,
+          "items": [
+
+          ],
+          "dg": "adverising there vegatbles",
+          "dg2": "Serving Size: 1 Monster. Not monitored by the USDA."
+        },
+        "Migosp": {
+          "min_health": 20,
+          "max_health": 30,
+          "min_dmg": 5,
+          "max_dmg": 10,
+          "min_drop": 15,
+          "max_drop": 17,
+          "min_xp": 10,
+          "max_xp": 12,
+          "items": [
+
+          ],
+          "dg": "Appeared",
+          "dg2": "He only got to the wrong crown"
+        }
+      },
+      "pets": [
+
+      ]
+    },
+    "Snowdin": {
+      "enemies": {
+        "Snowdrake": {
+          "min_health": 50,
+          "max_health": 75,
+          "min_dmg": 6,
+          "max_dmg": 15,
+          "min_drop": 25,
+          "max_drop": 40,
+          "min_xp": 20,
+          "max_xp": 22,
+          "items": [
+
+          ],
+          "dg": "Jumped into here to tell a pun!",
+          "dg2": "This teen comedian fights to keep a captive audience.\nIce Cap: This teen wonders why it isn't named 'Ice Hat.' "
+        },
+        "Ice Cap": {
+          "min_health": 50,
+          "max_health": 75,
+          "min_dmg": 6,
+          "max_dmg": 20,
+          "min_drop": 25,
+          "max_drop": 50,
+          "min_xp": 10,
+          "max_xp": 20,
+          "items": [
+
+          ],
+          "dg": "Felling Ignored",
+          "dg2": "Don’t try and Steal it!"
+        },
+        "Gyftrot": {
+          "min_health": 50,
+          "max_health": 80,
+          "min_dmg": 3,
+          "max_dmg": 25,
+          "min_drop": 19,
+          "max_drop": 23,
+          "min_xp": 10,
+          "max_xp": 25,
+          "items": [
+
+          ],
+          "dg": "Is Undcorating There Self!",
+          "dg2": "Some teens \"decorated\" it as a prank."
+        },
+        "Doggo": {
+          "min_health": 60,
+          "max_health": 70,
+          "min_dmg": 23,
+          "max_dmg": 30,
+          "min_drop": 25,
+          "max_drop": 40,
+          "min_xp": 20,
+          "max_xp": 30,
+          "items": [
+
+          ],
+          "dg": "Checking Your movement",
+          "dg2": "Easily excited by movement. Hobbies include: squirrels."
+        },
+        "The Lesser Dog": {
+          "min_health": 50,
+          "max_health": 75,
+          "min_dmg": 6,
+          "max_dmg": 15,
+          "min_drop": 25,
+          "max_drop": 40,
+          "min_xp": 40,
+          "max_xp": 43,
+          "items": [
+
+          ],
+          "dg": "Appeared",
+          "dg2": "Wields a stone dogger made of pomer-granite."
+        },
+        "The Greater Dog": {
+          "min_health": 95,
+          "max_health": 105,
+          "min_dmg": 18,
+          "max_dmg": 22,
+          "min_drop": 30,
+          "max_drop": 40,
+          "min_xp": 40,
+          "max_xp": 54,
+          "items": [
+
+          ],
+          "dg": "Blocks the way",
+          "dg2": "It's so excited that it thinks fighting is just play. "
+        }
+      },
+      "pets": [
+
+      ]
+    },
+    "Water Fall": {
+      "enemies": {
+        "Aron": {
+          "min_health": 90,
+          "max_health": 120,
+          "min_dmg": 12,
+          "max_dmg": 30,
+          "min_drop": 27,
+          "max_drop": 80,
+          "min_xp": 53,
+          "max_xp": 70,
+          "items": [
+
+          ],
+          "dg": "flexes through the battle",
+          "dg2": "CHECK all you want! ; ) "
+        },
+        "Woshua": {
+          "min_health": 70,
+          "max_health": 110,
+          "min_dmg": 11,
+          "max_dmg": 29,
+          "min_drop": 28,
+          "max_drop": 59,
+          "min_xp": 59,
+          "max_xp": 80,
+          "items": [
+
+          ],
+          "dg": "Washes the battle",
+          "dg2": "This humble germophobe seeks to cleanse the whole world. "
+        },
+        "Shyren": {
+          "min_health": 175,
+          "max_health": 225,
+          "min_dmg": 30,
+          "max_dmg": 40,
+          "min_drop": 40,
+          "max_drop": 90,
+          "min_xp": 50,
+          "max_xp": 60,
+          "items": [
+
+          ],
+          "dg": "Sings Into the battle",
+          "dg2": "Tone deaf. She's too ashamed to sing her deadly song."
+        }
+      },
+      "pets": [
+
+      ]
+    },
+    "Hot Land": {
+      "enemies": {
+        "Vulkin": {
+          "min_health": 40,
+          "max_health": 60,
+          "min_dmg": 40,
+          "max_dmg": 60,
+          "min_drop": 80,
+          "max_drop": 90,
+          "min_xp": 129,
+          "max_xp": 190,
+          "items": [
+
+          ],
+          "dg": "Heats the Battle",
+          "dg2": "Mistakenly believes its lava can heal people."
+        },
+        "Tsunderplane": {
+          "min_health": 80,
+          "max_health": 110,
+          "min_dmg": 11,
+          "max_dmg": 29,
+          "min_drop": 28,
+          "max_drop": 59,
+          "min_xp": 60,
+          "max_xp": 140,
+          "items": [
+
+          ],
+          "dg": "Flies Through the Battle!",
+          "dg2": " Seems mean, but does it secretly like you?"
+        },
+        "Pyrope": {
+          "min_health": 175,
+          "max_health": 225,
+          "min_dmg": 30,
+          "max_dmg": 40,
+          "min_drop": 40,
+          "max_drop": 90,
+          "min_xp": 90,
+          "max_xp": 120,
+          "items": [
+
+          ],
+          "dg": "Waving the surrounding!",
+          "dg2": "This mischievous monster is never warm enough."
+        }
+      },
+      "pets": [
+
+      ]
+    },
+    "Core": {
+      "enemies": {
+        "Madjick": {
+          "min_health": 210,
+          "max_health": 230,
+          "min_dmg": 30,
+          "max_dmg": 45,
+          "min_drop": 70,
+          "max_drop": 90,
+          "min_xp": 260,
+          "max_xp": 360,
+          "items": [
+
+          ],
+          "dg": "is Madjickimg",
+          "dg2": "This enemy can only speak in magic words."
+        },
+        "Knight Knight": {
+          "min_health": 320,
+          "max_health": 322,
+          "min_dmg": 32,
+          "max_dmg": 40,
+          "min_drop": 43,
+          "max_drop": 50,
+          "min_xp": 450,
+          "max_xp": 640,
+          "items": [
+
+          ],
+          "dg": "Protects",
+          "dg2": "This megaton mercenary wields the Good Morningstar."
+        },
+        "Whimsalot": {
+          "min_health": 70,
+          "max_health": 100,
+          "min_dmg": 21,
+          "max_dmg": 25,
+          "min_drop": 19,
+          "max_drop": 23,
+          "min_xp": 220,
+          "max_xp": 370,
+          "items": [
+
+          ],
+          "dg": "defends!",
+          "dg2": "It finally stopped worrying."
+        },
+        "Final Froggit": {
+          "min_health": 120,
+          "max_health": 140,
+          "min_dmg": 40,
+          "max_dmg": 50,
+          "min_drop": 25,
+          "max_drop": 40,
+          "min_xp": 380,
+          "max_xp": 440,
+          "items": [
+
+          ],
+          "dg": "Hopped In?",
+          "dg2": "Its future looks brighter and brighter."
+        },
+        "Astigmatism": {
+          "min_health": 130,
+          "max_health": 138,
+          "min_dmg": 32,
+          "max_dmg": 43,
+          "min_drop": 25,
+          "max_drop": 40,
+          "min_xp": 460,
+          "max_xp": 540,
+          "items": [
+
+          ],
+          "dg": "Appeared",
+          "dg2": "This relentless bully ALWAYS gets its way. "
+        }
+      },
+      "pets": [
+
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 0,
+    "damage" : 2,
+    "deaths" : 2,
+    "defence" : 0,
+    "enemieskilled" : 31,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 123,
+    "gold" : 200,
+    "health" : 100,
+    "hp_potions" : 9,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "Calvin Williams jr bros",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612459279.2304811,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

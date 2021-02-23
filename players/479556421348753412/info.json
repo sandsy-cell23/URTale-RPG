@@ -1,0 +1,35 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1613905754.605309,
+    "damage" : 6,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 149,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 15,
+    "gold" : 2447,
+    "health" : 100,
+    "hp_potions" : 0,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 7,
+    "max_health" : 124,
+    "max_pot" : 12,
+    "name" : "Lin Manuel Miranda.",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613968076.660646,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}

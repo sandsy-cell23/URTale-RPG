@@ -1,0 +1,32 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 0,
+    "damage" : 1,
+    "deaths" : 3,
+    "defence" : 0,
+    "enemieskilled" : 35,
+    "enemyhp" : 14,
+    "equip" : "Stick",
+    "exp" : 188,
+    "gold" : 599,
+    "health" : 100,
+    "hp_potions" : 3,
+    "in_fight" : 0,
+    "inv_armor" : [],
+    "inventory" : [],
+    "location" : "Ruins",
+    "lootbag" : 0,
+    "lvl" : 2,
+    "max_health" : 104,
+    "max_pot" : 12,
+    "name" : "treinerviniex",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1612130192.7566025,
+    "selected_enemy" : "None",
+    "selected_user" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Bandage"
+}

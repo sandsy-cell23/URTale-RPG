@@ -1,0 +1,36 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1614003223.823734,
+    "damage" : 3,
+    "deaths" : 2,
+    "defence" : 0,
+    "enemieskilled" : 50,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 299,
+    "gold" : 3000,
+    "health" : 100,
+    "hp_potions" : 0,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage",
+        "Faded Ribbon"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 4,
+    "max_health" : 112,
+    "max_pot" : 12,
+    "name" : "RandomUserxd",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1613626790.7999237,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Manly Bandanna"
+}

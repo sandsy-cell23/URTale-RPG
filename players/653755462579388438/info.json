@@ -1,0 +1,35 @@
+{
+    "class" : "Undertale",
+    "daily_block" : 1614044529.3795817,
+    "damage" : 2,
+    "deaths" : 1,
+    "defence" : 0,
+    "enemieskilled" : 51,
+    "enemyhp" : 50,
+    "equip" : "Toy Knife",
+    "exp" : 295,
+    "gold" : 134,
+    "health" : 63,
+    "hp_potions" : 0,
+    "in_fight" : 0,
+    "inv_armor" : [
+        "Bandage"
+    ],
+    "inventory" : [
+        "Stick"
+    ],
+    "location" : "Snowdin",
+    "lootbag" : 0,
+    "lvl" : 3,
+    "max_health" : 108,
+    "max_pot" : 12,
+    "name" : "Solarbeem",
+    "race" : "Normal",
+    "resets" : 0,
+    "rest_block" : 1614087587.2417998,
+    "selected_enemy" : "None",
+    "skills_learned" : [
+        "Shoot"
+    ],
+    "wearing" : "Faded Ribbon"
+}
