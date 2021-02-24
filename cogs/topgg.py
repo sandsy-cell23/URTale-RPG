@@ -29,7 +29,7 @@ class TopGG(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
         self.token = "DBLTOKEN"
-        self.dblpy = dbl.DBLClient(self.bot, self.token, webhook_path='/dblwebhook', webhook_auth='dady2005', webhook_port=2737)
+        self.dblpy = dbl.DBLClient(self.bot, self.token, webhook_path='/dblwebhook', webhook_auth='PASSWORD', webhook_port=2737)
 
     # The decorator below will work only on discord.py 1.1.0+
     # In case your discord.py version is below that, you can use self.bot.loop.create_task(self.update_stats())
