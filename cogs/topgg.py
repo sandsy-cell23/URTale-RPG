@@ -28,7 +28,7 @@ class TopGG(commands.Cog):
 
     def __init__(self, bot):
         self.bot = bot
-        self.token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijc4MTM5MjAwMzY5NDA2Nzc1MyIsImJvdCI6dHJ1ZSwiaWF0IjoxNjEwODQ5NjU3fQ.9ugnlJAW7lMkLH9uhz3PMGM4m80vlT3RzH1HYBbAIwo"
+        self.token = "DBLTOKEN"
         self.dblpy = dbl.DBLClient(self.bot, self.token, webhook_path='/dblwebhook', webhook_auth='dady2005', webhook_port=2737)
 
     # The decorator below will work only on discord.py 1.1.0+
